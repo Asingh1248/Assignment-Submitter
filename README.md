@@ -25,7 +25,7 @@
  
  * Clone the Project
  ```sh
-        $ git clone https://github.com/Asingh1248/JSP_Servlet_Online_Assignment_Submission        
+        $ git clone https://github.com/Asingh1248/JSP_Servlet_Online_Assignment_Submission.git    
 ```
 ```sh
       Prepare the Database as per screenshot
