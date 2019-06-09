@@ -30,7 +30,9 @@
 ```sh
       Prepare the Database as per screenshot
 ````
-  
+---------------------------------
+<img src="./ScreenShot/1st Database.png">
+
  
  
  
