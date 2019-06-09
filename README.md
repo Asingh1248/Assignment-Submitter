@@ -30,11 +30,26 @@
 ```sh
       Prepare the Database as per screenshot
 ````
----------------------------------
+
+
 <img src="./ScreenShot/1st Database.png">
-<img src="./ScreenShot/2nd_Database.png">
-<img src="./ScreenShot/3rd_Database.png">
-<img src="./ScreenShot/4th_Database.png">
+<img src="./ScreenShot/2nd_DataBase.png">
+<img src="./ScreenShot/3rd_DataBase.png">
+<img src="./ScreenShot/4th_DataBase.png">
+
+---------------------------------
+### ScreenShot for Work Flow
+<div align=center>
+ <img src="./ScreenShot/HomePage.png">
+ <img src="./ScreenShot/FacultyDashBoard.png">
+ <img src="./ScreenShot/FacultyGeneratinAssignment.png">
+ <img src="./ScreenShot/Assignment_Generated_Successfully.png">
+ <img src="./ScreenShot/Student_Login.png">
+ <img src="./ScreenShot/StudentDashBoard.png">
+ <img src="./ScreenShot/Student_Upload_assignement.png">
+ 
+</div>
+
 
  
  
